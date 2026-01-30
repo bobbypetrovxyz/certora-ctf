@@ -1,0 +1,13 @@
+# Build artifacts
+artifacts/
+cache/
+
+# Dependencies
+node_modules/
+
+# Deployment files
+deployed.json
+
+# Public generated files
+public/default.sol
+public/eventsABI.json
